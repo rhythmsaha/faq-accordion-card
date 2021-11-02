@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.166ff657.chunk.css",
+    "main.js": "/static/js/main.2c7eaf54.chunk.js",
+    "main.js.map": "/static/js/main.2c7eaf54.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56600035.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56600035.js.map",
+    "static/js/2.677b0552.chunk.js": "/static/js/2.677b0552.chunk.js",
+    "static/js/2.677b0552.chunk.js.map": "/static/js/2.677b0552.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.166ff657.chunk.css.map": "/static/css/main.166ff657.chunk.css.map",
+    "static/js/2.677b0552.chunk.js.LICENSE.txt": "/static/js/2.677b0552.chunk.js.LICENSE.txt",
+    "static/media/Card.module.css": "/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/static/media/illustration-woman-online-desktop.843eb114.svg",
+    "static/media/illustration-woman-online-mobile.fe928f9c.svg": "/static/media/illustration-woman-online-mobile.fe928f9c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56600035.js",
+    "static/js/2.677b0552.chunk.js",
+    "static/css/main.166ff657.chunk.css",
+    "static/js/main.2c7eaf54.chunk.js"
+  ]
+}
