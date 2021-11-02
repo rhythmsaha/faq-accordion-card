@@ -1,0 +1,48 @@
+.ImageBox {
+    height: 100%;
+    position: relative;
+}
+
+@media screen and (max-width: 768px) {
+    .ImageBox {
+        position: absolute;
+        top: -135px;
+        margin: 0 auto;
+    }
+}
+
+.WomenBox {
+    overflow: hidden;
+}
+
+.WomanDesktop {
+    margin-left: -5rem;
+}
+
+.WomanMobile {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.Cube {
+    position: absolute;
+    transform: translate(-100px, -120%);
+}
+
+@media screen and (max-width: 768px) {
+    .WomanDesktop {
+        display: none;
+    }
+}
+@media screen and (min-width: 768px) {
+    .WomanMobile {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .Cube {
+        display: none;
+    }
+}

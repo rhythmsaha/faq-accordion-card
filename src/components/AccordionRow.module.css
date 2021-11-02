@@ -1,0 +1,39 @@
+.Row {
+    padding: 1rem 0;
+}
+
+.Qus {
+    font-weight: 700;
+    cursor: pointer;
+    color: var(--V-Dark-grayish-blue);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    transition: all 100ms;
+    user-select: none;
+}
+
+.Qus:hover {
+    color: var(--red);
+}
+
+.Ans {
+    color: var(--Dark-grayish-blue);
+    height: 0;
+    overflow: hidden;
+    transition: all 100ms;
+}
+
+.ToggledAns {
+    padding: 14px 0 8px 0;
+    height: auto;
+}
+
+.Qus > span {
+    transition: all;
+    transition-duration: 100ms;
+}
+
+.Active {
+    transform: rotate(180deg);
+}
