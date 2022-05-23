@@ -24,6 +24,13 @@ body {
     font-size: 12px;
 }
 
+@media screen and (min-width:768px){
+body {
+    
+    font-size: 15px;
+}
+}
+
 main {
     display: flex;
     justify-content: center;
